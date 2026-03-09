@@ -51,7 +51,7 @@ dominio/
 ```
 
 ## 🔗 Modelagem de entidade e relacionamento - MER
-![MER](/project/gestao_atletas_api_desafio/mer.jpg "Modelagem de entidade e relacionamento")
+![MER](/gestao-atletas-api/mer.jpg "Modelagem de entidade e relacionamento")
 
 ### 🧩 Funcionalidades
 
